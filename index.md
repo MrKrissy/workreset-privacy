@@ -3,7 +3,7 @@ layout: default
 ---
 # WorkReset AI — Privacy Policy
 
-*Last updated: 2026-09-25 (pre-release). This is the source text for the page
+**Last updated: 2026-10-06*. This is the source text for the page
 you will host; replace the placeholder contact email before publishing.*
 
 WorkReset AI is a calm movement assistant for your workday. It runs entirely
@@ -85,5 +85,5 @@ never sees or stores your payment details.
 
 ## Contact
 
-Questions about privacy? Email us at **privacy@workreset.example** (replace
+Questions about privacy? Email us at **workresetai@gmail.com** (replace
 with your real contact before release).
